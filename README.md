@@ -1,4 +1,4 @@
-# word-translator
+# vue-firebase-app
 
 ## Project setup
 ```
